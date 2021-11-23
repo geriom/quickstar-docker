@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello world! It's me and the time is $(date)."
+echo "Hello world! Build triggered at $(date)."
